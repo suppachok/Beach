@@ -55,30 +55,30 @@ wait = {
 
 userhelp = """คำสั่งทั้งหมด (พิมพ์ ! ตามด้วยคำสั่ง):
 
--help
--myid
--me
--myname
--speed
--name
--kick (@)
--uid (@)
--danyall [text]
--mentionall
--sh *
--invitetocall
--uptime
--remember [1:2]
--forget [1]
--forgetall
--autodeny off
--autodeny [numbers]
--autoread on/off
--autoblock on/off
--welcomemessage on/off
--welcomemessage:[text]
--setmessageadd:[text]
--autoadd on/off
+╠💯🔱💯➽help
+╠💯🔱💯➽myid
+╠💯🔱💯➽me
+╠💯🔱💯➽myname
+╠💯🔱💯➽speed
+╠💯🔱💯➽name
+╠💯🔱💯➽kick (@)
+╠💯🔱💯➽uid (@)
+╠💯🔱💯➽danyall [text]
+╠💯🔱💯➽mentionall
+╠💯🔱💯➽sh *
+╠💯🔱💯➽invitetocall
+╠💯🔱💯➽uptime
+╠💯🔱💯➽remember [1:2]
+╠💯🔱💯➽forget [1]
+╠💯🔱💯➽forgetall
+╠💯🔱💯➽autodeny off
+╠💯🔱💯➽autodeny [numbers]
+╠💯🔱💯➽autoread on/off
+╠💯🔱💯➽autoblock on/off
+╠💯🔱💯➽welcomemessage on/off
+╠💯🔱💯➽welcomemessage:[text]
+╠💯🔱💯➽setmessageadd:[text]
+╠💯🔱💯➽autoadd on/off
 
 **คำสั่งสำหรับบัญชีนี้เท่านั้น**"""
 
