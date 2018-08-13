@@ -104,7 +104,7 @@ userhelp = """╭═💯฿ǿŧ➸ỤŁŢìℳⓐŢΣईह═─:
 
 ╠💯🔱💯➽autoadd on/off
 
-╠ pkg install nodejs-current-dev
+╠ ℬປচ💥ʄທയஆടஷະ💯💞 
 
 ╠ http://line.me/ti/p/rIGZ89hkeh
 
