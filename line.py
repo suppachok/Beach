@@ -56,9 +56,9 @@ wait = {
 userhelp = """╭═💯฿ǿŧ➸ỤŁŢìℳⓐŢΣईह═─:
 ╠💯🔱💯➽คำสั่ง
 ╠💯🔱💯➽ไอดี
-╠💯🔱💯➽Me
+╠💯🔱💯➽เรา
 ╠💯🔱💯➽ชื่อ
-╠💯🔱💯➽Sp
+╠💯🔱💯➽แรง
 ╠💯🔱💯➽อัพชื่อ
 ╠💯🔱💯➽โชคดี (@)
 ╠💯🔱💯➽ไอดี (@)
@@ -206,7 +206,7 @@ def user1scipt(op):
             elif msg.text.lower() == "ไอดี":
                 cl.sendMessage(msg.to,user1)
 
-            elif msg.text.lower() == "Me":
+            elif msg.text.lower() == "เรา":
                 beach = user1
                 cl.sendContact(msg.to,beach)
 
@@ -214,7 +214,7 @@ def user1scipt(op):
                 G = cl.getContact(user1)
                 cl.sendMessage(msg.to,G.displayName)
 
-            elif msg.text.lower() == "Sp":
+            elif msg.text.lower() == "แรง":
                 start = time.time()
                 cl.sendMessage(msg.to,"กำลังทดสอบ(｀・ω・´)")
                 cl.sendMessage(msg.to,str(int(round((time.time() - start) * 1000)))+" ms")
